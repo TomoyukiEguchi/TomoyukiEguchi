@@ -5,4 +5,4 @@
 🌱 Currently learning about data analytics<br/>
 🧘 Fun fact: A Yoga Enthusiast<br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomoyukieguchi&show_icons=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomoyukieguchi&show_icons=true&theme=tokyonight)
